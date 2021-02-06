@@ -15,8 +15,7 @@ int const MOD = 10e9+7;
 
 int main()
 {
-
-    //FileOut;
+	
     int casos; cin>>casos;
     while(casos--){
         int n,k; cin>>n>>k;
