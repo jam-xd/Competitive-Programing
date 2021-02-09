@@ -1,3 +1,4 @@
+//https://codeforces.com/contest/1481/problem/B
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -12,9 +13,46 @@ typedef long double dbl;
 #define debug(x) cout<<"--> "<<x<<endl
 int const MOD = 10e9+7;
 
+bool deOne (deque<ll>&jaja){
+	bool si = true;
+	for(int i=0;i<jaja.size()-1;i++){
+		if(jaja[i] < jaja[i+1]){si = false; break;}
+	}
+	if(si == true)return true;
+	else return false;
+}
+
 int main()
 {
-    /*Not yet*/
+
+	//FileIn;
+	//FileOut;
+	int casos; cin>>casos;
+	while(casos--){
+		ll n,k; cin>>n>>k;
+		deque<ll>jaja(n);
+		for(int i=0;i<jaja.size();i++)cin>>jaja[i];
+		if(n == 1){cout<<-1<<endl; continue;}
+
+		ll answer = 0;
+		bool siguente = false;
+		while(k--){
+			for(int i=0;i<jaja.size()-1;i++){
+				if(deOne(jaja) == true){cout<<-1<<endl; siguente = true; break;}
+
+				if(jaja[i] < jaja[i+1]){
+					jaja[i]++;
+					//debug(i+1);
+					answer = i+1;
+					break;
+				}
+			}
+			if(siguente == true)break;
+		}
+
+	 if(siguente == false)cout<<answer<<endl;
+		
+	}
     return 0;
 }
 
@@ -32,5 +70,3 @@ int main()
 	//Despues comes :3
 ----------------------------------------------/
 */
-
-
