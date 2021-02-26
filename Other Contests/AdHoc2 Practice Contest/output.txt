@@ -1,0 +1,113 @@
+For Case N = 1
+Number N in cordinates: X=0 Y=0
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+________________________
+For Case N = 2
+Number N in cordinates: X=0 Y=0
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+________________________
+For Case N = 3
+Number N in cordinates: X=0 Y=0
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+________________________
+For Case N = 4
+Number N in cordinates: X=0 Y=0
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+________________________
+For Case N = 5
+Number N in cordinates: X=4 Y=0
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+0 0 0 0 0 
+1 0 0 0 0 
+________________________
+For Case N = 6
+Number N in cordinates: X=0 Y=0
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+0 0 0 0 0 
+1 0 0 0 0 
+________________________
+For Case N = 7
+Number N in cordinates: X=3 Y=0
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+1 0 0 0 0 
+1 0 0 0 0 
+________________________
+For Case N = 8
+Number N in cordinates: X=0 Y=0
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+1 0 0 0 0 
+1 0 0 0 0 
+________________________
+For Case N = 9
+Number N in cordinates: X=0 Y=0
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+1 0 0 0 0 
+1 0 0 0 0 
+________________________
+For Case N = 10
+Number N in cordinates: X=0 Y=0
+1 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+1 0 0 0 0 
+1 0 0 0 0 
+________________________
+For Case N = 11
+Number N in cordinates: X=0 Y=0
+1 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+1 0 0 0 0 
+1 0 0 0 0 
+________________________
+For Case N = 12
+Number N in cordinates: X=1 Y=0
+1 0 0 0 0 
+1 0 0 0 0 
+0 0 1 0 0 
+1 0 0 0 0 
+1 0 0 0 0 
+________________________
+For Case N = 13
+Number N in cordinates: X=0 Y=0
+1 0 0 0 0 
+1 0 0 0 0 
+0 0 1 0 0 
+1 0 0 0 0 
+1 0 0 0 0 
+________________________
+For Case N = 14
+Number N in cordinates: X=2 Y=0
+1 0 0 0 0 
+1 0 0 0 0 
+1 0 1 0 0 
+1 0 0 0 0 
+1 0 0 0 0 
+________________________
+BINGO after 14 numbers announced
